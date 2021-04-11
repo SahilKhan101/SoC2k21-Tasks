@@ -1,7 +1,7 @@
 # SoC2k21-Tasks
 What I have leant till now :-
 
--done a Crash course on python
+-done a Crash course on python.
  Learnt all the basics of python by this
 
 for Data analysis learnt 
